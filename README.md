@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/the-aniket-gupta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-the%20aniket%20gupta-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:aniketgupta1368@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aniketguptadev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:aniketgupta1368@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-theaniketguptadev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [proniket](https://github.com/proniket)
